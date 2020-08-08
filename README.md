@@ -1,1 +1,1 @@
-# WhiteBoard_RMI
+# Distributed system assignment 2
