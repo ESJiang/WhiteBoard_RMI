@@ -1,4 +1,4 @@
-# Distributed Systems Assignment Two
+# WhiteBoard_RMI
 https://github.com/ESJiang/WhiteBoard_RMI/assets/43910771/f6868efc-e619-4d38-a93a-773eb38ace16
 
 ## Tools: Java - RMI
