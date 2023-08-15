@@ -1,4 +1,4 @@
 bin
 *.json
-.pdf
+*.pdf
 .DS_Store
