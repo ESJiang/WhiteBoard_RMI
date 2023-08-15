@@ -1,6 +1,8 @@
 # WhiteBoard_RMI
 https://github.com/ESJiang/WhiteBoard_RMI/assets/43910771/f6868efc-e619-4d38-a93a-773eb38ace16
 
+Final score: 22.5/25
+
 ## Tools: Java - RMI
 <img width="600" alt="Server-Client architecture" src="https://github.com/ESJiang/WhiteBoard_RMI/assets/43910771/9cbeade2-1804-4040-8800-2d517a3c2c1f">
 
