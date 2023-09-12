@@ -1,0 +1,4 @@
+bin
+*.json
+*.pdf
+.DS_Store
