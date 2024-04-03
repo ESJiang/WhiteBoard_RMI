@@ -1,0 +1,6 @@
+src/
+image/
+*.json
+*.pdf
+bin
+.DS_Store
